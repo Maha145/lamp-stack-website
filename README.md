@@ -7,7 +7,7 @@ This project sets up a LAMP stack (Linux, Apache, MySQL, PHP) to host a simple P
 
 The website is hosted on an AWS EC2 instance and can be accessed via the following link:
 
- [http://ec2-13-61-143-95.eu-north-1.compute.amazonaws.com/](http://ec2-13-61-143-95.eu-north-1.compute.amazonaws.com/)
+- [http://ec2-13-61-143-95.eu-north-1.compute.amazonaws.com/](http://ec2-13-61-143-95.eu-north-1.compute.amazonaws.com/)
 
 ## Steps Taken
 1. **Installed Apache**: Used `sudo apt-get install apache2` to install Apache.
