@@ -3,6 +3,12 @@
 ## Overview
 This project sets up a LAMP stack (Linux, Apache, MySQL, PHP) to host a simple PHP-based website on an AWS EC2 instance. The website interacts with a MySQL database to display the current time and the visitor's IP address.
 
+## Accessing the Website
+
+The website is hosted on an AWS EC2 instance and can be accessed via the following link:
+
+ [http://ec2-13-61-143-95.eu-north-1.compute.amazonaws.com/](http://ec2-13-61-143-95.eu-north-1.compute.amazonaws.com/)
+
 ## Steps Taken
 1. **Installed Apache**: Used `sudo apt-get install apache2` to install Apache.
 2. **Installed MySQL**: Set up MySQL using `sudo apt-get install mysql-server`.
