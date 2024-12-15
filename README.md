@@ -38,7 +38,3 @@ This project sets up a LAMP stack (Linux, Apache, MySQL, PHP) to host a simple P
 ### 4. **Remote Connection to Cloud Instance (SSH)**
 - **SSH (Secure Shell)** is a protocol for securely accessing remote servers over a network. SSH allows you to execute commands on a remote server as if you were physically present.
 
-## Git Commands Used
-- `git init` to initialize the repository.
-- `git add .` to add all files.
-- `git commit -m "Initial commit: Add documentation and website files"` to commit the changes.
